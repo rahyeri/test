@@ -12,4 +12,6 @@ $(document).ready(function(){
     });
   }
   let Timer = setInterval(moveSlide,3000);
+  
+
 });
